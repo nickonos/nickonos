@@ -21,6 +21,7 @@
 <img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="./img/nodejs.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="./img/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;">
 <img align="left" alt="C#" width="26px" src="./img/c-sharp.svg" style="padding-right:10px;">
 <img align="left" alt="Rust" width="26px" src="./img/rustlang.png" style="padding-right:10px;">
 <img align="left" alt="Golang" height="26px" width="26px" src="./img/golang.svg" style="padding-right:10px;">
