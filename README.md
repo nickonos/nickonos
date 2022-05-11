@@ -8,11 +8,9 @@
 
 [![website](./img/globe-light.svg)](https://www.nickvanoijen.nl#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.nickvanoijen.nl#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/nick-van-oijen-7998221b5#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nick-van-oijen-7998221b5#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ## Experience:
 
